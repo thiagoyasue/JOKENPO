@@ -9,9 +9,9 @@ Requer o .NET framework 4.6.1 para abrir no Visual Studio: https://dotnet.micros
   Thiago Yasue (quem vos escreve); Eliel Adrian; Roger Norio; Leonardo Trindade
 
 *Requisitos Técnicos:
-  Nome: JOKENPO THE GAME
-  Data de Lançamento: 15/05/2019
-  Linguagem de Programação: C#
+  # Nome: JOKENPO THE GAME
+  # Data de Lançamento: 15/05/2019
+  # Linguagem de Programação: C#
   
   Comentários adicionais: Código todo zoado devido ao nível de aprendizagem dos presentes. Pode ser observado pelas 800 linhas de código, que poderiam ser resumidas
   em, digamos, quatro a seis métodos.
