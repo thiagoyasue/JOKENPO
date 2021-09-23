@@ -5,11 +5,13 @@ Para visualizar o código (e eventualmente, quem sabe, testar o jogo), abra o ar
 
 Requer o .NET framework 4.6.1 para abrir no Visual Studio: https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral
 
-Criado por:
+
+*Criado por:
 
   Thiago Yasue (quem vos escreve); Eliel Adrian; Roger Norio; Leonardo Trindade
+  
 
-Requisitos Técnicos:
+*Requisitos Técnicos:
 
   Nome: JOKENPO THE GAME
   
