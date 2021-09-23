@@ -1,7 +1,8 @@
 # JOKENPO
 Jogo criado pra aula de Técnicas de Programação, curso de Jogos Digitais, Universidade de Mogi das Cruzes.
 
-Para visualizar o código (e eventualmente, quem sabe, testar o jogo), abra o arquivo JOKENPOTHEGAME.sln utilizando o Visual Studio
+Para visualizar o código (e eventualmente, quem sabe, testar o jogo), abra o arquivo JOKENPOTHEGAME.sln utilizando o Visual Studio.
+
 Requer o .NET framework 4.6.1 para abrir no Visual Studio: https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral
 
 Criado por:
