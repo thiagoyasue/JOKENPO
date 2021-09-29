@@ -1,6 +1,6 @@
 # JOKENPO
 # Data de Lançamento: 15/05/2019
-Jogo criado para a aula de Técnicas de Programação, curso de Jogos Digitais, Universidade de Mogi das Cruzes.
+Jogo feito em Visual Studio C#, criado para a aula de Técnicas de Programação I, curso de Jogos Digitais, Universidade de Mogi das Cruzes.
 
 Para visualizar o código (e eventualmente, quem sabe, testar o jogo), abra o arquivo JOKENPOTHEGAME.sln utilizando o Visual Studio.
 
